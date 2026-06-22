@@ -1,0 +1,12 @@
+[submodule "NJ_Home_Price_Forecasting"]
+	path = NJ_Home_Price_Forecasting
+	url = git@github.com:kumarritik24/NJ_Home_Price_Forecasting.git
+[submodule "House-Pridiction"]
+	path = House-Pridiction
+	url = https://github.com/kumarritik24/NJ_Home_Price_Forecasting.git
+[submodule "Pollution-Analysis"]
+	path = Pollution-Analysis
+	url = https://github.com/kumarritik24/Air-Pollution-Analysis-Dashboard
+[submodule "Trend-Forecasting"]
+	path = Trend-Forecasting
+	url = https://github.com/kumarritik24/Stack-Overflow-Python-Trends-Forecasting.git
